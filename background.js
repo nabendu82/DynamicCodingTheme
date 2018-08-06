@@ -7,7 +7,7 @@ const themes = {
     },
     colors: {
       accentcolor: '#CF723F',
-      textcolor: 'white',
+      textcolor: '#FFFF00',
     }
   },
   'code1': {
@@ -16,7 +16,7 @@ const themes = {
     },
     colors: {
       accentcolor: '#CF723F',
-      textcolor: 'white',
+      textcolor: '#00FFFF',
     }
   },
   'code2': {
@@ -25,7 +25,7 @@ const themes = {
     },
     colors: {
       accentcolor: '#CF723F',
-      textcolor: 'white',
+      textcolor: '#FFFF00',
     }
   },
   'code3': {
@@ -34,7 +34,7 @@ const themes = {
     },
     colors: {
       accentcolor: '#CF723F',
-      textcolor: 'white',
+      textcolor: '#FFFF00',
     }
   },
   'code4': {
@@ -43,7 +43,7 @@ const themes = {
     },
     colors: {
       accentcolor: '#CF723F',
-      textcolor: 'white',
+      textcolor: '#FF8080',
     }
   },
   'code5': {
@@ -52,7 +52,7 @@ const themes = {
     },
     colors: {
       accentcolor: '#CF723F',
-      textcolor: 'white',
+      textcolor: '#FFFF00',
     }
   },
   'code6': {
@@ -61,7 +61,7 @@ const themes = {
     },
     colors: {
       accentcolor: '#CF723F',
-      textcolor: 'white',
+      textcolor: '#FFFF40',
     }
   },
   'code7': {
@@ -70,7 +70,7 @@ const themes = {
     },
     colors: {
       accentcolor: '#CF723F',
-      textcolor: 'white',
+      textcolor: '#FFFF40',
     }
   },
   'code8': {
@@ -79,7 +79,7 @@ const themes = {
     },
     colors: {
       accentcolor: '#CF723F',
-      textcolor: 'white',
+      textcolor: '#FFFF00',
     }
   },
   'code9': {
@@ -88,7 +88,7 @@ const themes = {
     },
     colors: {
       accentcolor: '#CF723F',
-      textcolor: 'white',
+      textcolor: '#FFFF40',
     }
   },
   'code10': {
@@ -97,7 +97,7 @@ const themes = {
     },
     colors: {
       accentcolor: '#CF723F',
-      textcolor: 'white',
+      textcolor: '#fcc600',
     }
   },
   'code11': {
@@ -106,7 +106,7 @@ const themes = {
     },
     colors: {
       accentcolor: '#CF723F',
-      textcolor: 'white',
+      textcolor: '#FFFF00',
     }
   }
 };
